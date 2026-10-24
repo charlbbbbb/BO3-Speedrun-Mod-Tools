@@ -31,21 +31,20 @@ os.makedirs("stats", exist_ok=True)
 
 # parse steam resp
 subscribers = item.get("subscriptions")
+if subscribes is None:
+    raise ValueError("Steam did not provide subscriber count")
+    
 badge = {
     "schemaVersion": 1,
     "label": "Current Subscribers",
-    "message": str(value),
+    "message": str(subscribers),
     "color": "green",
 }
 
-
-if value is None:
-    print(f"Steam did not provide {field}; skipping {filename}.")
-else:
-    with open(
-        os.path.join("stats", filename),
-        "w",
-        encoding="utf-8",
-    ) as file:
-        json.dump(badge, file, indent=2)
-        file.write("\n")
+with open(
+    os.path.join("stats", filename),
+    "w",
+    encoding="utf-8",
+) as file:
+    json.dump(badge, file, indent=2)
+    file.write("\n")
