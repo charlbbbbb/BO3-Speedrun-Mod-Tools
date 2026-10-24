@@ -42,7 +42,7 @@ badge = {
 }
 
 with open(
-    os.path.join("stats", filename),
+    os.path.join("stats", "subscribers.json"),
     "w",
     encoding="utf-8",
 ) as file:
