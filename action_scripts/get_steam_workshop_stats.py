@@ -31,7 +31,7 @@ os.makedirs("stats", exist_ok=True)
 
 # parse steam resp
 subscribers = item.get("subscriptions")
-if subscribes is None:
+if subscribers is None:
     raise ValueError("Steam did not provide subscriber count")
     
 badge = {
