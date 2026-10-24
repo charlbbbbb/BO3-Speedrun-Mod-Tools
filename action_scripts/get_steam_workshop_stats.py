@@ -32,16 +32,15 @@ os.makedirs("stats", exist_ok=True)
 # parse steam resp
 subscribers = item.get("subscriptions")
 badge = {
-    badge = {
-        "schemaVersion": 1,
-        "label": "Current Subscribers",
-        "message": str(value),
-        "color": "green",
-    }
+    "schemaVersion": 1,
+    "label": "Current Subscribers",
+    "message": str(value),
+    "color": "green",
 }
 
+
 if value is None:
-        print(f"Steam did not provide {field}; skipping {filename}.")
+    print(f"Steam did not provide {field}; skipping {filename}.")
 else:
     with open(
         os.path.join("stats", filename),
