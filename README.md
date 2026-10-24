@@ -1,18 +1,87 @@
-[![Download BO3 Speedrun Mod](https://img.shields.io/badge/Download-BO3_Speedrun_Mod-blue.svg?logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3508605873)
-[![Download BO3 Speedrun Mod](https://img.shields.io/badge/Download-LiveSplit_Autosplitter-red.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM%2FrhtAAAHSklEQVRYR%2B2Ye2wUVRTGvzuz3b4ESgtCeVgpUpUEJCgpFNryCM%2FwEuQlFFqqBAKUVwRSJFIoqaCUGECIvEuBGATDK4hIQOQhNKgJaUQhkqBUgVpaatvd2Zm55tzdud12u%2B3WGuEPf8lk7pxzZ%2Bbbc%2B49986yAQMGcDzFsP8FNhHWv3%2F%2FpzvF%2F5bAqKgoREdHi%2Fb9%2B%2Ffx8OFDj6dpNEmg3W7HqFGjMHbsWHTo0EHaiaKiIhw9elQcTqdT2hvLPxbYsWNHZGdni6idOXMGly5dQnFxsfBFRkYiISEBQ4cOFZFcuXIl7ty547mzcbDk5ORGC2zXrh22bNkiBGVlZeHevXsAB6LAwAD8CQ7OIMSTuPbt22PevHm4e%2FeufEagNFogY0yICw8Px9y5c8H%2FqsAIbkM8tyGc5DHAyTm%2BYwZOMBeqQkOwadMmcM4xa9YscW4MjRY4YsQILF26FLNnz0bJjz8hw7SjpYibL1UAtioazNgY7NixA7m5uTh%2B%2FDgURZF9GoIlJye580HvIKlMntxn6wJAaGgo9u%2Ffj6tXryL3%2FXXI1IPQyo84i0oA2aoTaQsXYNCgQRg%2Ffjw0TYPCFPfDrXdbeGvgAEtKSqJ2QFDUxowZg2nTpuGVB6V43VClzz8c56HjdGQ4Dh48iFOnTmHDhg0IDg4OKJIBC6SBvnfvXuzevVtEcZGm4nn69QFQDo53UImJEyciIyMDU6dOFbM6EJEBC1y7di06deqEGTNmwOVyIcehICSgO90sYVVwqgr27dsnSg8JJRoSyRITExt8Ta9evURaVqxYgYsXLwrb6kognBred1sD1xuPbbHqhMbcz6JZvWTJEly4cEFUBRJJ57poUKCqqti1axdKSkqwaNEiaX%2FbAbxo1HurpJhxrLbp8nrdunWIjY3FpEmTRDYIf5FsUOC4ceMwf%2F58zJw5s8Zq8IqLY6qDbqXD%2BvVWu%2BYjT6gmvrJV22g804TZtm2bSLlFXSLrFdi8eXMcOHAAZ8%2BexcaNG6VdwDnSK03E6X5vF%2FyucGy0c7hqZZCKPP14Oig7FrVFsn79%2Bvl9A6V08ODBmDJlCh4%2FfiztFsGc480KHXHV2asRvHsKx85goMw3cwgLC8OhQ4fEmF6zZo2002IZHGwH84j0K5BmLJUUGtCHDx%2BWdh84x8tOHa9pHNEmQI%2B9rwA%2F2IACG2DKjr6MHDlSTLzp06fj5s2b0k5YkfQrkFJKe7y0tDQYhuE2BkUDakuAOwDtV4C7Bzitr7qu%2B19nVYB1UMHCGHiZCV7klk0zl4KgaU6kp7%2Fl6VyNmN19%2B%2FYVT%2FUe5omJicjJycHixYtRUFAAhMWDRYwGbK09vaijE7z8G6DsqLtdl0gboA63w5ZsB0KrByF%2FZEL%2FQoN50YVu3bqJdTozMxOnT5%2BWfURvxqoFWgQFBSE%2FP1%2FM2OXLlwMtJwPPDBA%2BKlU%2BQXIVAQ9yAbNcXJJI0zSBEAbb%2FBAoMf6XQ6NAh5HnwOqs1ejRo4dYpx0Oh%2FQTPgJpOZozZw5SUlLwa8lz4JEp0lcXoqhUFYIVbxIpsyLJUu1QXrXJfv4wPnei9Y1IMWF27twpUu6Nj8AjR47g8uXL%2BODDDTDbZLvHXK265guD%2Bcd62Iw7QqTZhsNY5j9yNaji4JlOZMzJEFs52oWLDHhgCQkJ8u2dO3dGXl6eqFHfF5bCbPWO5fKIrFXMvOCPvwQv%2FUwMEX0wYAwXVs%2B4sHrVDftYRxdXZ1FzKXOFhYXVPm%2BBw4YNE1v0IUOGoNx4CUZEquVqEF55HSj%2BxJ3mKSqMPtLVIOygAfUKcO3aNaxatQrHjh2r9nkLHD16NJYtW4aBAweiir8AV8Qsy9UwFd%2BCPdormsZ4BjPJf7Rro%2BabUAogKgZ9iNEws6ghMD4%2BXmzLafn5%2FUEltKisetPqDSv7FPjra9E2ezIYKYHdR9hyTDSrfAbnz58Xu5xz585JH%2BvTp48U2KJFC5w8eVLUQDprzVJhBHe33P4xq6A%2BeA8waYMP8CBAexdAM4%2FfLxzKLYagrRBZW79%2BvRhe3h%2F9NQQS1Klt27ZITU2FzpvD0WIhuFL%2Fm9TSPCiOAnlNGF05tDSaJNLkA3MA9o8YlIfuFaWiokKUOG98BMbFxYl6RNt7qvCG0gaO8Okw1WdlHwvGNajlh6E6vpU2b%2FTuJrQ3TPAQaZIoJQz2fAXqb0zs0qlyUFBu3Lgh%2BxCsd%2B%2FeNQQSkydPxoIFC4TI7du3Q9c5nGp3GPau4GokGK8C036B6rgCZvrucrzh4Rx6Lw4jlos2K2Ww%2FcSgfsegmirS09PFx9jmzZtFQGpTp0CCVhT6N4D%2BY6HdzPXr11FaWir9TYE%2B%2Bnv27IkJEyYgJiZGiNuzZ4%2F0e%2BNXIEH%2Fv1D46Xs2JKSOPDUB%2Bjam2UoZun37trTXpl6BhPubgSEurgsiIiKkvSmUlZXh1s%2B3oLk0afMHi4%2BPr1cgQYs%2FHU%2BCgAQST0pkwAIJEml9Jv5XNEogQQL%2Fy3T%2FDZ7GIkNuMFU3AAAAAElFTkSuQmCC)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Fcharlbbbbb%2FBO3-Speedrun-Mod-Tools%2Fblob%2Fmain%2Fbo3_speedrun_mod.asl)
+
+[![Join Discord](https://img.shields.io/badge/JOIN-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UpeXMexa7)
+[![Download BO3 Speedrun Mod](https://img.shields.io/badge/Download-BO3_Speedrun_Mod-blue?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3508605873)
+[![Download BO3 Speedrun Mod](https://img.shields.io/badge/Download-LiveSplit_Autosplitter-red.svg?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM%2FrhtAAAHSklEQVRYR%2B2Ye2wUVRTGvzuz3b4ESgtCeVgpUpUEJCgpFNryCM%2FwEuQlFFqqBAKUVwRSJFIoqaCUGECIvEuBGATDK4hIQOQhNKgJaUQhkqBUgVpaatvd2Zm55tzdud12u%2B3WGuEPf8lk7pxzZ%2Bbbc%2B49986yAQMGcDzFsP8FNhHWv3%2F%2FpzvF%2F5bAqKgoREdHi%2Fb9%2B%2Ffx8OFDj6dpNEmg3W7HqFGjMHbsWHTo0EHaiaKiIhw9elQcTqdT2hvLPxbYsWNHZGdni6idOXMGly5dQnFxsfBFRkYiISEBQ4cOFZFcuXIl7ty547mzcbDk5ORGC2zXrh22bNkiBGVlZeHevXsAB6LAwAD8CQ7OIMSTuPbt22PevHm4e%2FeufEagNFogY0yICw8Px9y5c8H%2FqsAIbkM8tyGc5DHAyTm%2BYwZOMBeqQkOwadMmcM4xa9YscW4MjRY4YsQILF26FLNnz0bJjz8hw7SjpYibL1UAtioazNgY7NixA7m5uTh%2B%2FDgURZF9GoIlJye580HvIKlMntxn6wJAaGgo9u%2Ffj6tXryL3%2FXXI1IPQyo84i0oA2aoTaQsXYNCgQRg%2Ffjw0TYPCFPfDrXdbeGvgAEtKSqJ2QFDUxowZg2nTpuGVB6V43VClzz8c56HjdGQ4Dh48iFOnTmHDhg0IDg4OKJIBC6SBvnfvXuzevVtEcZGm4nn69QFQDo53UImJEyciIyMDU6dOFbM6EJEBC1y7di06deqEGTNmwOVyIcehICSgO90sYVVwqgr27dsnSg8JJRoSyRITExt8Ta9evURaVqxYgYsXLwrb6kognBred1sD1xuPbbHqhMbcz6JZvWTJEly4cEFUBRJJ57poUKCqqti1axdKSkqwaNEiaX%2FbAbxo1HurpJhxrLbp8nrdunWIjY3FpEmTRDYIf5FsUOC4ceMwf%2F58zJw5s8Zq8IqLY6qDbqXD%2BvVWu%2BYjT6gmvrJV22g804TZtm2bSLlFXSLrFdi8eXMcOHAAZ8%2BexcaNG6VdwDnSK03E6X5vF%2FyucGy0c7hqZZCKPP14Oig7FrVFsn79%2Bvl9A6V08ODBmDJlCh4%2FfiztFsGc480KHXHV2asRvHsKx85goMw3cwgLC8OhQ4fEmF6zZo2002IZHGwH84j0K5BmLJUUGtCHDx%2BWdh84x8tOHa9pHNEmQI%2B9rwA%2F2IACG2DKjr6MHDlSTLzp06fj5s2b0k5YkfQrkFJKe7y0tDQYhuE2BkUDakuAOwDtV4C7Bzitr7qu%2B19nVYB1UMHCGHiZCV7klk0zl4KgaU6kp7%2Fl6VyNmN19%2B%2FYVT%2FUe5omJicjJycHixYtRUFAAhMWDRYwGbK09vaijE7z8G6DsqLtdl0gboA63w5ZsB0KrByF%2FZEL%2FQoN50YVu3bqJdTozMxOnT5%2BWfURvxqoFWgQFBSE%2FP1%2FM2OXLlwMtJwPPDBA%2BKlU%2BQXIVAQ9yAbNcXJJI0zSBEAbb%2FBAoMf6XQ6NAh5HnwOqs1ejRo4dYpx0Oh%2FQTPgJpOZozZw5SUlLwa8lz4JEp0lcXoqhUFYIVbxIpsyLJUu1QXrXJfv4wPnei9Y1IMWF27twpUu6Nj8AjR47g8uXL%2BODDDTDbZLvHXK265guD%2Bcd62Iw7QqTZhsNY5j9yNaji4JlOZMzJEFs52oWLDHhgCQkJ8u2dO3dGXl6eqFHfF5bCbPWO5fKIrFXMvOCPvwQv%2FUwMEX0wYAwXVs%2B4sHrVDftYRxdXZ1FzKXOFhYXVPm%2BBw4YNE1v0IUOGoNx4CUZEquVqEF55HSj%2BxJ3mKSqMPtLVIOygAfUKcO3aNaxatQrHjh2r9nkLHD16NJYtW4aBAweiir8AV8Qsy9UwFd%2BCPdormsZ4BjPJf7Rro%2BabUAogKgZ9iNEws6ghMD4%2BXmzLafn5%2FUEltKisetPqDSv7FPjra9E2ezIYKYHdR9hyTDSrfAbnz58Xu5xz585JH%2BvTp48U2KJFC5w8eVLUQDprzVJhBHe33P4xq6A%2BeA8waYMP8CBAexdAM4%2FfLxzKLYagrRBZW79%2BvRhe3h%2F9NQQS1Klt27ZITU2FzpvD0WIhuFL%2Fm9TSPCiOAnlNGF05tDSaJNLkA3MA9o8YlIfuFaWiokKUOG98BMbFxYl6RNt7qvCG0gaO8Okw1WdlHwvGNajlh6E6vpU2b%2FTuJrQ3TPAQaZIoJQz2fAXqb0zs0qlyUFBu3Lgh%2BxCsd%2B%2FeNQQSkydPxoIFC4TI7du3Q9c5nGp3GPau4GokGK8C036B6rgCZvrucrzh4Rx6Lw4jlos2K2Ww%2FcSgfsegmirS09PFx9jmzZtFQGpTp0CCVhT6N4D%2BY6HdzPXr11FaWir9TYE%2B%2Bnv27IkJEyYgJiZGiNuzZ4%2F0e%2BNXIEH%2Fv1D46Xs2JKSOPDUB%2Bjam2UoZun37trTXpl6BhPubgSEurgsiIiKkvSmUlZXh1s%2B3oLk0afMHi4%2BPr1cgQYs%2FHU%2BCgAQST0pkwAIJEml9Jv5XNEogQQL%2Fy3T%2FDZ7GIkNuMFU3AAAAAElFTkSuQmCC)](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Fcharlbbbbb%2FBO3-Speedrun-Mod-Tools%2Fblob%2Fmain%2Fbo3_speedrun_mod.asl)
 
 
 
 # Black Ops 3 Speedrun Mod
 
-### What is the Black Ops 3 Speedrun Mod?
+## What is the Black Ops 3 Speedrun Mod?
 
-### Timing your Runs
+The BO3 Speedrun Mod is designed to improve the speedrunning experience in Call of Duty: Black Ops III, providing useful tools and visual enhancements for Easter egg speedruns.
 
-#### In Game Timer
+### Features
 
-#### Livesplit
+- Infinite Gobblegums
+- Spawn with RK5 and revelations wisp (super ee rewards)
+- In-game timer and splits
+- LiveSplit autosplit integration
+- Custom camos
+- Custom perk shaders
+- Revamped UI
+- Custom menu avatars and music
+- In game session attempt counter
+
+The BO3 Speedrun Mod is **verified by ZWR for Easter egg speedruns**.
+
+## Installation Guide
+
+### Installing the Speedrun Mod
+
+The speedrun mod can be installed directly from the steam workshop **[here](https://steamcommunity.com/sharedfiles/filedetails/?id=3508605873)**
+
+### Using BOIII
+
+We are now **strongly encouraging the use of BOIII for official speedruns**.
+
+BOIII is a community client that is easy to set up. We recommend it to help deter cheating and provide a more reliable client for playing the game during speedruns.
+
+You can find BOIII and its setup information here:
+
+**[BOIII Community – Setup and Download](https://gitlab.com/boiii-community/BOIII-Community)**
+
+## Timing Your Runs
+
+The BO3 Speedrun Mod supports both an in-game timer and LiveSplit autosplits, giving you options for tracking your runs.
+
+### In-Game Timer
+
+The mod includes an in-game timer with split functionality, allowing you to track your run directly in the game.
+
+The following run types are supported:
+- Easter Eggs
+- Pack-a-Punch Speeedruns
+- Song Easter Eggs
+
+The timer can be enabled via the pause menu once loaded in to a game.
+
+### LiveSplit Autosplits
+
+We provide an ASL file that enables automatic splitting in [LiveSplit](https://livesplit.org/).
+
+Download the .asl **[here](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2Fcharlbbbbb%2FBO3-Speedrun-Mod-Tools%2Fblob%2Fmain%2Fbo3_speedrun_mod.asl)**
 
 
-### Credits
+## Support
+
+Join the Discord if you're experiencing issues, need help with setup, or have suggestions for improvements.
+
+**[Join the Discord](https://discord.gg/UpeXMexa7)**
+
+
+## Credits
+
+### Maintainers
+- **cbrnn** [UI, Menus, Perks, Timers, Splits, LiveSplit Integration]
+- **NikolaiEU** [Menus, Camos, Custom Models, Custom Music, Custom Calling Cards, Custom Textures, UI]
+
+### Contributors
+- **Keep3rs** [Camos]
+- **Luisete** [Gobblegum Textures, Infinite Gums, Other Support]
+- **oJumpy** [BOIII Integration Support, LUA Support, BOIII Friendly ASL]
+
+### Additional Credits
+- **Scrappy** [Various GSC snippets for some splits]
+
 
